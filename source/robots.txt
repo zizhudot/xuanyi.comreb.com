@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xuanyi.comreb.com/sitemap.xml
