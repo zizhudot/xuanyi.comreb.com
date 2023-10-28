@@ -1,6 +1,6 @@
 ---
 title: Binding a personal blog on Github to a Godaddy domain name
-date: 2023-07-17 20:00:00
+date: 2023-09-27 12:03:40
 categories:
   - Domain name
 tags:

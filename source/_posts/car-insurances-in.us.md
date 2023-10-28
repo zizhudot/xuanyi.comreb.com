@@ -1,6 +1,6 @@
 ---
 title: How do I buy insurance for a car in the US?
-date: 2023-07-17 20:00:00
+date: 2023-07-18 21:03:00
 categories:
   - Liveing in U.S.
 tags:

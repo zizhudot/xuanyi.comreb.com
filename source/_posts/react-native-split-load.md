@@ -1,6 +1,6 @@
 ---
 title: React Native Split bundle and Loading
-date: 2023-07-17 20:00:00
+date: 2023-10-28 14:31:00
 categories:
   - Front end
   - RN

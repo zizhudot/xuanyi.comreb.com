@@ -1,6 +1,6 @@
 ---
 title: What is the tax exemption for U.S. insurance?
-date: 2023-07-17 20:00:00
+date: 2023-07-18 13:23:31
 categories:
   - Liveing in U.S.
 tags:

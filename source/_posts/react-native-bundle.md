@@ -1,6 +1,6 @@
 ---
 title: React Native Packaging and split
-date: 2023-07-17 20:00:00
+date: 2023-10-28 13:51:10
 categories:
   - Front end
   - RN

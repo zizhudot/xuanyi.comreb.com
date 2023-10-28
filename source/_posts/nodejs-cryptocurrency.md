@@ -1,6 +1,6 @@
 ---
 title: How to build a simple cryptocurrency blockchain using Node.js
-date: 2023-07-17 20:00:00
+date: 2023-10-10 11:01:40
 categories:
   - Cryptocurrency
 tags:

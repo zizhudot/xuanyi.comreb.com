@@ -1,6 +1,6 @@
 ---
 title: Teach you to use GoDaddy to create a website
-date: 2023-07-17 20:00:00
+date: 2023-10-01 09:21:08
 categories:
   - Domain name
 tags:

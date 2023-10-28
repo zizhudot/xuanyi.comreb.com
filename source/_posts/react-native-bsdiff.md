@@ -1,6 +1,6 @@
 ---
 title: React Native Hot Updates and Incremental Updates
-date: 2023-07-17 20:00:00
+date: 2023-10-28 13:11:00
 categories:
   - Front end
   - RN

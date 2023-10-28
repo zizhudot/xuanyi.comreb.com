@@ -1,6 +1,6 @@
 ---
 title: iPhone 15 Device Adaptation - Device identification
-date: 2023-07-17 20:00:00
+date: 2023-10-07 16:31:33
 categories:
   - IOS development
 tags:

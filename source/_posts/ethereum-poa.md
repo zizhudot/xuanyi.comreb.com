@@ -1,6 +1,6 @@
 ---
 title: Ether PoA consensus method out of the block
-date: 2023-07-17 20:00:00
+date: 2023-09-10 21:13:03
 categories:
   - Cryptocurrency
 tags:

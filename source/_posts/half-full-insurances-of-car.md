@@ -1,6 +1,6 @@
 ---
 title: Half vs. full coverage auto insurance in the US
-date: 2023-07-17 20:00:00
+date: 2023-09-15 13:08:42
 categories:
   - Liveing in U.S.
 tags:

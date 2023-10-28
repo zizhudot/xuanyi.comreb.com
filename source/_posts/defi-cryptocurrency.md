@@ -1,6 +1,6 @@
 ---
 title: The Rise of DeFi:Synergies with Cryptocurrency Exchange Application Development
-date: 2023-07-17 20:00:00
+date: 2023-08-02 18:02:08
 categories:
   - Cryptocurrency
 tags:
