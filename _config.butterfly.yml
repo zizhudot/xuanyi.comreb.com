@@ -54,17 +54,17 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://cdn.jsdelivr.net/gh/youngjuning/images@main/1689604945346.png
+index_img: url(./assets/index_img.jpg)
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://s2.loli.net/2023/07/17/leDBhzw8xEnOmS6.png
+default_top_img: url(/assets/default_top_img.jpg)
 
 # The banner image of archive page
-archive_img: https://s2.loli.net/2023/07/17/xoflNAZpqPTFKU9.png
+# archive_img: https://s2.loli.net/2023/07/17/xoflNAZpqPTFKU9.png
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://s2.loli.net/2023/07/17/wvkgLUtdju3hYqr.png
+# tag_img: https://s2.loli.net/2023/07/17/wvkgLUtdju3hYqr.png
 
 # The banner image of tag page
 # format:
@@ -73,7 +73,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: https://s2.loli.net/2023/07/17/i8TsAaOQYEj1kIv.png
+# category_img: https://s2.loli.net/2023/07/17/i8TsAaOQYEj1kIv.png
 
 # The banner image of category page
 # format:
